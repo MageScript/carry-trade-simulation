@@ -1,0 +1,1 @@
+carry trade simulator strategy
